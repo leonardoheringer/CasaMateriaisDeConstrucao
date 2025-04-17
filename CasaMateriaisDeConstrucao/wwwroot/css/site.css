@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+
+.table-actions {
+    white-space: nowrap;
+    width: 1%;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+#tabelaItensVenda tbody tr:hover {
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+
+.total-venda {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
